@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "Cw4": {
+    "Cw5": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "applicationUrl": "http://localhost:5002",
