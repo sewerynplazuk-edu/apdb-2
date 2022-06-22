@@ -1,9 +1,9 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace Cw5
+namespace Cw4.Models
 {
-	public class ProductMetadata
+	public class SomeKindOfProduct
 	{
 		[Required]
 		public int IdProduct { get; set; }

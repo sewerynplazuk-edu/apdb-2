@@ -1,10 +1,9 @@
 ﻿using System;
-using System.ComponentModel.DataAnnotations;
-
-namespace Cw5
+namespace Cw4.Models
 {
-	public class ProductWarehouseMetadata
+	public class ProductWarehouse
 	{
+		public int IdProductWarehouse { get; set; }
 		public int IdWarehouse { get; set; }
 		public int IdProduct { get; set; }
 		public int IdOrder { get; set; }
